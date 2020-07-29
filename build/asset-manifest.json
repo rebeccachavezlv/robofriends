@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/rebeccachavezlv/robofriends.git/static/css/main.584a2422.chunk.css",
+    "main.js": "/rebeccachavezlv/robofriends.git/static/js/main.d071cbae.chunk.js",
+    "main.js.map": "/rebeccachavezlv/robofriends.git/static/js/main.d071cbae.chunk.js.map",
+    "runtime-main.js": "/rebeccachavezlv/robofriends.git/static/js/runtime-main.12322b62.js",
+    "runtime-main.js.map": "/rebeccachavezlv/robofriends.git/static/js/runtime-main.12322b62.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/rebeccachavezlv/robofriends.git/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.cab51068.chunk.js": "/rebeccachavezlv/robofriends.git/static/js/2.cab51068.chunk.js",
+    "static/js/2.cab51068.chunk.js.map": "/rebeccachavezlv/robofriends.git/static/js/2.cab51068.chunk.js.map",
+    "index.html": "/rebeccachavezlv/robofriends.git/index.html",
+    "precache-manifest.a2f3d489fb9078c4ac9302ccf6702efd.js": "/rebeccachavezlv/robofriends.git/precache-manifest.a2f3d489fb9078c4ac9302ccf6702efd.js",
+    "service-worker.js": "/rebeccachavezlv/robofriends.git/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/rebeccachavezlv/robofriends.git/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.584a2422.chunk.css.map": "/rebeccachavezlv/robofriends.git/static/css/main.584a2422.chunk.css.map",
+    "static/js/2.cab51068.chunk.js.LICENSE.txt": "/rebeccachavezlv/robofriends.git/static/js/2.cab51068.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12322b62.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.cab51068.chunk.js",
+    "static/css/main.584a2422.chunk.css",
+    "static/js/main.d071cbae.chunk.js"
+  ]
+}
